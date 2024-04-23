@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/RetryPolicySettingsConfigurator/.vs
+/src/RetryPolicySettingsConfigurator/RetryPolicySettingsConfiguratorConsole/bin/Debug/net6.0
+/src/RetryPolicySettingsConfigurator/RetryPolicySettingsConfiguratorConsole/obj
+/src/RetryPolicySettingsConfigurator/RetryPolicySettingsConfiguratorGUI/bin/Debug
+/src/RetryPolicySettingsConfigurator/RetryPolicySettingsConfiguratorGUI/obj
