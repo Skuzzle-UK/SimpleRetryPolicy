@@ -1,7 +1,7 @@
 using Microsoft.Extensions.Options;
-using Skuzzle.Core.Service.Retry.Settings;
+using Skuzzle.Core.Lib.Retry.Settings;
 
-namespace Skuzzle.Core.Service.Retry
+namespace Skuzzle.Core.Lib.Retry
 {
     public class RetryPolicyService : IRetryPolicyService
     {
